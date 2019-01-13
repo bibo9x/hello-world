@@ -1,2 +1,2 @@
 # hello-world
-my first repository for learning how to use GitHub
+This is my first changes for github. Is it real different? I hope that.
